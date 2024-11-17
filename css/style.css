@@ -1,0 +1,11 @@
+* {
+    background-color: rgb(10, 10, 10);
+    color: rgb(245, 245, 245);
+    margin: 1rem 1rem 1rem 1rem;
+    font-family: "Courier New", Arial;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
